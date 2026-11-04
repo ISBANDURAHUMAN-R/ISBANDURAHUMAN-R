@@ -83,13 +83,8 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
   <a href="https://github.com/ISBANDURAHUMAN-R">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub"/>
   </a>
-  <a href="https://www.instagram.com/voidkage17">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram"/>
-  </a>
-  <a href="https://www.youtube.com/@voidkage_17">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="YouTube"/>
-  </a>
-  <a href="https://voidkage.netlify.app/">
+ 
+  <a href="https://rahumanportfolio-80kx2afm8-isbandurahuman-rs-projects.vercel.app/index.html">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" height="35" alt="Portfolio"/>
   </a>
 </div>
