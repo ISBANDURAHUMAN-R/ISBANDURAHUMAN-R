@@ -124,31 +124,31 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 
 <br/>
 
-## 👀 Profile Visitors
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:8B0000&height=120&section=footer&animation=fadeIn" alt="Footer Banner" />
-
-
-<br/>
 
 
 ---
 
 ## ⚡ What I'm Working On
-
+<div align="center">
 - Exploring Artificial Intelligence and Machine Learning
 - Building full-stack applications
 - Learning Computer Vision and Cybersecurity
 - Improving problem-solving and software engineering skills
 - Turning ideas into real-world projects
-
+</div>
 ---
+<a href="https://github.com/ISBANDURAHUMAN-R">
+  <img src="https://komarev.com/ghpvc/?username=ISBANDURAHUMAN-R&label=PROFILE%20VIEWS&color=e50914&style=for-the-badge&labelColor=000000" alt="Profile Views" />
+</a>
 
-## 💡 Developer Mindset
+<br/><br/>
 
-<div align="center">
+<sub>© ISBANDU RAHUMAN R &nbsp;•&nbsp; VOIDKAGE &nbsp;•&nbsp; ALL RIGHTS RESERVED</sub>
+
+</div>
+
+
 
 ### "Learn continuously. Build fearlessly. Improve relentlessly."
 
