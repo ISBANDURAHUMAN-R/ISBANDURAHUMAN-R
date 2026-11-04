@@ -1,4 +1,9 @@
-<img width="551" height="307" alt="d93cd803-7edb-47aa-b855-ec82e058a324" src="https://github.com/user-attachments/assets/c0e2da70-19bc-49ac-8f5c-848502e7f5ed" />
+
+<div align="center">
+
+   <img width="551" height="307" alt="d93cd803-7edb-47aa-b855-ec82e058a324" src="https://github.com/user-attachments/assets/c0e2da70-19bc-49ac-8f5c-848502e7f5ed" />
+  
+</div>
 
 #  ▚ Hi! I'm ISBANDU RAHUMAN R
 
