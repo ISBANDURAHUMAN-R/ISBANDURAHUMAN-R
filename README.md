@@ -129,15 +129,16 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 
 ---
 
-## ⚡ What I'm Working On
-<div align="center">
-- Exploring Artificial Intelligence and Machine Learning
-- Building full-stack applications
-- Learning Computer Vision and Cybersecurity
-- Improving problem-solving and software engineering skills
-- Turning ideas into real-world projects
-</div>
----
+
+
+<br/>
+
+### `BUILD. CREATE. INNOVATE.`
+
+**Thanks for exploring my GitHub profile.**
+
+<br/>
+
 <a href="https://github.com/ISBANDURAHUMAN-R">
   <img src="https://komarev.com/ghpvc/?username=ISBANDURAHUMAN-R&label=PROFILE%20VIEWS&color=e50914&style=for-the-badge&labelColor=000000" alt="Profile Views" />
 </a>
@@ -145,13 +146,5 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 <br/><br/>
 
 <sub>© ISBANDU RAHUMAN R &nbsp;•&nbsp; VOIDKAGE &nbsp;•&nbsp; ALL RIGHTS RESERVED</sub>
-
-</div>
-
-
-
-### "Learn continuously. Build fearlessly. Improve relentlessly."
-
-⭐ Thanks for visiting my profile!
 
 </div>
