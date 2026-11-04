@@ -130,6 +130,8 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 ---
 
 
+<div align="center">
+
 
 <br/>
 
