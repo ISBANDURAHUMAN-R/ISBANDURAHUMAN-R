@@ -151,10 +151,11 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 
 **Thanks for exploring my GitHub profile.**
 
+
 <br/>
 
 <a href="https://github.com/ISBANDURAHUMAN-R">
-  <img src="https://komarev.com/ghpvc/?username=ISBANDURAHUMAN-R&label=PROFILE%20VIEWS&color=e50914&style=for-the-badge&labelColor=000000" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ISBANDURAHUMAN-R&label=PROFILE%20VIEWS&color=000000&style=for-the-badge&labelColor=1a1a1a" alt="Profile Views" />
 </a>
 
 <br/><br/>
