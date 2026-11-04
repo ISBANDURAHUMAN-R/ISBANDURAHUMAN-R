@@ -118,15 +118,7 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 
 ---
 
-## 📈 Contribution Activity
 
-<div align="center">
-
-  ![GitHub Contributions](https://ghstats.dev/api/card?username=ISBANDURAHUMAN-R&theme=tokyonight)
-
-</div>
-
----
 
 ## 👀 Profile Visitors
 
