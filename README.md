@@ -93,49 +93,71 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 
 ---
 
+<!-- ================================================================= -->
+<!--                         CONNECT WITH ME                           -->
+<!-- ================================================================= -->
 
-## 🌐 Connect With Me
+<h2 align="center"> ✦ <em>Connect With Me</em> </h2>
 
-<div align="left">
-  <a href="https://github.com/ISBANDURAHUMAN-R">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub"/>
+<div align="center">
+  <a href="https://github.com/ISBANDURAHUMAN-R" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" />
   </a>
- 
-  <a href="https://rahumanportfolio-80kx2afm8-isbandurahuman-rs-projects.vercel.app/index.html">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" height="35" alt="Portfolio"/>
+  &nbsp;
+  <a href="https://rahumanportfolio-80kx2afm8-isbandurahuman-rs-projects.vercel.app/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" height="35" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/isbandu-rahuman/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/voidkage17" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="mailto:isbandurahuman@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email" />
   </a>
 </div>
+
+<br/>
 
 ---
 
-<h2 align="center"> 📈 <em>Statistics</em> </h2>
+<!-- ================================================================= -->
+<!--                          STATISTICS                               -->
+<!-- ================================================================= -->
+
+<h2 align="center"> 📊 <em>Statistics</em> </h2>
 
 <div align="center">
-  <img width="48%" src="https://ghstats.dev/api/card?username=ISBANDURAHUMAN-R&theme=dark" alt="Isbandu's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=ISBANDURAHUMAN-R&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=30363d&border_radius=8" alt="Isbandu's GitHub Stats" />
   &nbsp;
-  <img width="48%" src="https://streak-stats.demolab.com?user=ISBANDURAHUMAN-R&theme=dark&background=000000&border=30363d&border_radius=8&ring=e50914&fire=e50914&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=e50914&sideLabels=aaaaaa" alt="GitHub Streak Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=ISBANDURAHUMAN-R&theme=dark&background=000000&border=30363d&border_radius=8&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=ffffff" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="56%" src="https://ghstats.dev/api/langs?username=ISBANDURAHUMAN-R&theme=dark" alt="Top Languages" />
+  <img width="56%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ISBANDURAHUMAN-R&layout=compact&bg_color=000000&title_color=ffffff&text_color=aaaaaa&border_color=30363d&border_radius=8" alt="Top Languages" />
 </div>
 
 <br/>
+
+---
 
 <!-- ================================================================= -->
 <!--                     CONTRIBUTION ACTIVITY                         -->
 <!-- ================================================================= -->
 
-<h2 align="center"> 📊 <em>Contribution Activity</em> </h2>
+<h2 align="center"> ◈ <em>Contribution Activity</em> </h2>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph-delta.vercel.app/graph?username=ISBANDURAHUMAN-R&bg_color=000000&color=ffffff&line=e50914&point=ffffff&area=true&area_color=1a0507&hide_border=false&border_color=30363d&custom_title=ISBANDU'S%20CONTRIBUTION%20GRAPH" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph-delta.vercel.app/graph?username=ISBANDURAHUMAN-R&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=181818&hide_border=false&border_color=30363d&custom_title=ISBANDU'S%20CONTRIBUTION%20GRAPH" alt="Contribution Graph" />
 </div>
 
 <br/>
-
 
 
 
