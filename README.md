@@ -184,6 +184,6 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 
 <br/><br/>
 
-<sub>© ISBANDU RAHUMAN R &nbsp;•&nbsp; VOIDKAGE &nbsp;•&nbsp; ALL RIGHTS RESERVED</sub>
+<sub>© ISBANDU RAHUMAN R &nbsp;•&nbsp;  ALL RIGHTS RESERVED</sub>
 
 </div>
