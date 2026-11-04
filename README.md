@@ -1,5 +1,5 @@
 
-# 👋 Hi! I'm ISBANDU RAHUMAN R
+#  ▚ Hi! I'm ISBANDU RAHUMAN R
 
 <h3 align="left">AI & Data Science Student | Python Developer | Full-Stack Developer</h3>
 
@@ -16,12 +16,12 @@
 
 I'm an aspiring developer from India passionate about Artificial Intelligence, software development, and building practical applications.
 
-- 🎓 AI & Data Science student at Panimalar Engineering College
-- 💻 Interested in AI, Machine Learning and Full-Stack Development
-- 🐍 Python and Django developer
-- 🔐 Exploring Cybersecurity and Computer Vision
-- 🚀 Building creative and real-world technology projects
-- 📚 Always learning, experimenting and improving
+-  AI & Data Science student at Panimalar Engineering College
+-  Interested in AI, Machine Learning and Full-Stack Development
+-  Python and Django developer
+-  Exploring Cybersecurity and Computer Vision
+-  Building creative and real-world technology projects
+-  Always learning, experimenting and improving
 
 <br clear="right"/>
 
@@ -69,7 +69,7 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 <!--                       FEATURED PROJECTS                           -->
 <!-- ================================================================= -->
 
-<h2 align="center"> 🚀 <em>Featured Projects</em> </h2>
+<h2 align="center"> <em>Featured Projects</em> </h2>
 
 <div align="center">
 
@@ -129,7 +129,7 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 <!--                          STATISTICS                               -->
 <!-- ================================================================= -->
 
-<h2 align="center"> 📊 <em>Statistics</em> </h2>
+<h2 align="center"> 彡 <em>Statistics</em> </h2>
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=ISBANDURAHUMAN-R&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=30363d&border_radius=8" alt="Isbandu's GitHub Stats" />
@@ -139,9 +139,7 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 
 <br/>
 
-<div align="center">
-  <img width="56%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ISBANDURAHUMAN-R&layout=compact&bg_color=000000&title_color=ffffff&text_color=aaaaaa&border_color=30363d&border_radius=8" alt="Top Languages" />
-</div>
+
 
 <br/>
 
