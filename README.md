@@ -4,14 +4,13 @@
 <h3 align="left">AI & Data Science Student | Python Developer | Full-Stack Developer</h3>
 
 <p align="left">
-  <img
-    align="right"
-    height="180"
-    width="180"
-    style="border-radius: 50%;"
-    src="https://github.com/user-attachments/assets/417f683b-9a32-41cd-be77-10e0588b0fdc"
-    alt="Isbandu Rahuman R"
-  />
+<img
+  align="right"
+  height="180"
+  width="180"
+  src="https://github.com/user-attachments/assets/c3425c55-3f59-4c71-8736-6feea61dcf63"
+  alt="Isbandu Rahuman R"
+/>
 </p>
 
 I'm an aspiring developer from India passionate about Artificial Intelligence, software development, and building practical applications.
