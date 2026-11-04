@@ -128,9 +128,11 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=ISBANDURAHUMAN-R&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:8B0000&height=120&section=footer&animation=fadeIn" alt="Footer Banner" />
 
-</div>
+
+<br/>
+
 
 ---
 
