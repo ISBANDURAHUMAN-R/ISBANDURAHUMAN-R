@@ -31,8 +31,7 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/>
+
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img width="12"/>
@@ -40,12 +39,9 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img width="12"/>
+ 
+  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
@@ -69,7 +65,7 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 | **KYOKKO** | Gesture-controlled invisibility virtual webcam application |
 | **TRUVEX** | AI-focused project |
 | **VEHIX** | YOLO-based vehicle detection and counting |
-| **TRUTHLENS AI** | AI-powered misinformation detection |
+| **TRUVEX** | AI-powered misinformation detection |
 | **QUANTUM THREAT** | Cybersecurity-focused project |
 | **NEXORA** | Software development project |
 
@@ -77,13 +73,6 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 
 ---
 
-## 💼 Internship Experience
-
-- **CodSoft** – Python Programming Internship
-- **InternPe** – Cybersecurity Internship
-- **VaultofCodes** – Shortlisted for Python, AI & Prompt Engineering Internship
-
----
 
 ## 🌐 Connect With Me
 
