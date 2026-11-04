@@ -1,11 +1,12 @@
-![Uploading profile.jpg…]()![Uploading profile.jpg…]()
-
+<img width="1001" height="1374" alt="profile" src="https://github.com/user-attachments/assets/51b788af-0d25-4aa9-b660-0dddb2af6161" />
 # 👋 Hi! I'm ISBANDU RAHUMAN R
 
 <h3 align="left">AI & Data Science Student | Python Developer | Full-Stack Developer</h3>
 
 <p align="left">
-  <img align="right" height="180" width="180" style="border-radius: 50%;" src="profile.jpg" alt="Isbandu Rahuman R" />
+  <img align="right" height="180" width="180" style="border-radius: 50%;" src="<img width="1001" height="1374" alt="profile" src="https://github.com/user-attachments/assets/417f683b-9a32-41cd-be77-10e0588b0fdc" />"
+
+ alt="Isbandu Rahuman R" />
 </p>
 
 I'm an aspiring developer from India passionate about Artificial Intelligence, software development, and building practical applications.
