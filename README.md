@@ -6,7 +6,6 @@
 <p align="left">
 <img
   align="right"
-  height="180"
   width="180"
   src="https://github.com/user-attachments/assets/c3425c55-3f59-4c71-8736-6feea61dcf63"
   alt="Isbandu Rahuman R"
