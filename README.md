@@ -1,8 +1,11 @@
 
 <div align="center">
-
- <img width="100%"  alt="2366d80d-7883-4fe4-8718-ead283b4d7bb" src="https://github.com/user-attachments/assets/b54b6159-bc8b-494a-a34c-0dbbe60069a6" />
-  
+  <img
+    width="100%"
+    height="280"
+    alt="WELCOME TO RAHUMAN'S HUB"
+    src="https://github.com/user-attachments/assets/b54b6159-bc8b-494a-a34c-0dbbe60069a6"
+  />
 </div>
 
 #  ▚ Hi! I'm ISBANDU RAHUMAN R
@@ -114,11 +117,7 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/voidkage17" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="mailto:isbandurahuman@gmail.com" target="_blank">
+  <a href="mailto:r1rahuman@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email" />
   </a>
 </div>
