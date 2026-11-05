@@ -113,7 +113,7 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" height="35" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/isbandu-rahuman/" target="_blank">
+  <a href="https://www.linkedin.com/in/isbandu-rahuman-r-4b855b396/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
   &nbsp;
