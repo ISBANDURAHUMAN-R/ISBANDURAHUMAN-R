@@ -22,12 +22,17 @@
 </p>
 
 I'm an aspiring developer from India passionate about Artificial Intelligence, software development, and building practical applications.
-
+<br>
  ★ AI & Data Science student at Panimalar Engineering College
+ <br>
  ★ Interested in AI, Machine Learning and Full-Stack Development
+  <br>
  ★ Python and Django developer
+  <br>
  ★ Exploring Cybersecurity and Computer Vision
+  <br>
  ★  Building creative and real-world technology projects
+  <br>
  ★  Always learning, experimenting and improving
 
 <br clear="right"/>
