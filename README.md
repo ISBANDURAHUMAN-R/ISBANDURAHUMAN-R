@@ -20,12 +20,12 @@
 
 I'm an aspiring developer from India passionate about Artificial Intelligence, software development, and building practical applications.
 
--  AI & Data Science student at Panimalar Engineering College
--  Interested in AI, Machine Learning and Full-Stack Development
--  Python and Django developer
--  Exploring Cybersecurity and Computer Vision
--  Building creative and real-world technology projects
--  Always learning, experimenting and improving
+ ★ AI & Data Science student at Panimalar Engineering College
+ ★ Interested in AI, Machine Learning and Full-Stack Development
+ ★ Python and Django developer
+ ★ Exploring Cybersecurity and Computer Vision
+ ★  Building creative and real-world technology projects
+ ★  Always learning, experimenting and improving
 
 <br clear="right"/>
 
@@ -81,8 +81,6 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 | :--- | :--- | :--- | :---: |
 | **`KYOKKO`** | `Python` `OpenCV` `MediaPipe` | Gesture-controlled invisibility virtual webcam application simulating optical camouflage in real-time | [**View**](https://github.com/ISBANDURAHUMAN-R) |
 | **`KAGE DRIFT`** | `JavaScript` `Three.js` `WebGL` | High-octane 3D browser racing game simulation with realistic physics engine and vehicle drift dynamics | [**Play**](https://isbandurahuman-r.github.io/KAGE_-DRIFT/) |
-| **`KAGE CHESS`** | `JavaScript` `Chess.js` `3D Engine` | Interactive 3D algorithmic chess battle experience with custom piece logic, board physics and AI moves | [**Play**](https://isbandurahuman-r.github.io/3D-CHESS/) |
-| **`3D ARENA`** | `WebGL` `Canvas` `Game Architecture` | Immersive 3D action arena combat browser game featuring dynamic collision detection and lighting | [**Play**](https://isbandurahuman-r.github.io/3D-ARENA/) |
 | **`TRUTH_LENS`** | `Python` `NLP` `FastAPI` `Machine Learning` | AI-powered misinformation detection engine analyzing textual credibility, veracity patterns and news sentiment | [**Repo**](https://github.com/ISBANDURAHUMAN-R/TRUTH_LENS) |
 | **`QUANTUM THREAT`** | `Python` `Cryptography` `Quantum Security` | Cybersecurity research analyzing quantum computing vulnerabilities, Shor's impact, and post-quantum defenses | [**Repo**](https://github.com/ISBANDURAHUMAN-R/QUANTUM-THREAT) |
 | **`VEHIX`** | `Python` `YOLOv8` `OpenCV` `Deep Learning` | Real-time vehicle detection, tracking, speed estimation, and intelligent multi-lane traffic flow counting | [**View**](https://github.com/ISBANDURAHUMAN-R) |
