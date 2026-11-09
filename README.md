@@ -4,7 +4,7 @@
     width="100%"
     height="280"
     alt="WELCOME TO RAHUMAN'S HUB"
-    src="https://github.com/user-attachments/assets/b54b6159-bc8b-494a-a34c-0dbbe60069a6"
+    src=https://github.com/user-attachments/assets/b54b6159-bc8b-494a-a34c-0dbbe60069a6
   />
 </div>
 
