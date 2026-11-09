@@ -7,12 +7,7 @@
     src="https://github.com/user-attachments/assets/bfaa8bd1-f76d-4d31-ac39-15bd8caef890" 
     />
 </div>
-<div 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student;Python+%7C+Full+Stack+Developer;Exploring+Neural+Architectures+%26+Computer+Vision;Creator+of+KAGEGAMES+%7C+Founder+of+VOIDKAGE;Architecting+Intelligent+High-Impact+Systems;Learn+Continuously.+Build+Fearlessly." alt="Typing Subtitle" />
-</p>
 
-</div>
 
 #  ▚ Hi! I'm ISBANDU RAHUMAN R
 
