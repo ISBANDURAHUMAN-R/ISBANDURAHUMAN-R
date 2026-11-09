@@ -1,11 +1,12 @@
+ src="https://github.com/user-attachments/assets/bfaa8bd1-f76d-4d31-ac39-15bd8caef890" />
 
 <div align="center">
   <img
     width="100%"
     height="280"
     alt="WELCOME TO RAHUMAN'S HUB"
-    src=https://github.com/user-attachments/assets/dcb700a2-b302-47f4-b433-4da25f534cb4
-  />
+    src="https://github.com/user-attachments/assets/bfaa8bd1-f76d-4d31-ac39-15bd8caef890" 
+    />
 </div>
 
 #  ▚ Hi! I'm ISBANDU RAHUMAN R
