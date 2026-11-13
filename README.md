@@ -192,12 +192,30 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 <br/>
 
 
-### `BUILD. CREATE. INNOVATE.`
+<!-- ================================================================= -->
+<!--                              FOOTER                               -->
+<!-- ================================================================= -->
 
-**Thanks for exploring my GitHub profile.**
+<div align="center">
 
+  <h2><code>BUILD. CREATE. INNOVATE.</code></h2>
+
+  <h3>Thanks for exploring my GitHub profile.</h3>
+
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=ISBANDURAHUMAN-R&label=PROFILE+VIEWS&color=000000&style=for-the-badge" alt="Profile Views"/>
+
+  <br/><br/><br/>
+
+  <p>
+    © ISBANDU RAHUMAN R &nbsp; • &nbsp; ALL RIGHTS RESERVED
+  </p>
+
+</div>
 
 <br/>
+<hr/>
 
 <a href="https://github.com/ISBANDURAHUMAN-R">
   <img src="https://komarev.com/ghpvc/?username=ISBANDURAHUMAN-R&label=PROFILE%20VIEWS&color=000000&style=for-the-badge&labelColor=1a1a1a" alt="Profile Views" />
