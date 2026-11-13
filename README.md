@@ -166,21 +166,15 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 
 <h2 align="center"> ◈ <em>Contribution Activity</em> </h2>
 
+
+
 <div align="center">
   <img
     width="100%"
     src="https://raw.githubusercontent.com/ISBANDURAHUMAN-R/ISBANDURAHUMAN-R/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
+    alt="Monochrome Snake Grid"
   />
 </div>
-
-<br/>
-
----
-
-
-<div align="center">
-
 
 <br/>
 
