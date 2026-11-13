@@ -138,9 +138,14 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 
 <h2 align="center"> 彡 <em>Statistics</em> </h2>
 
+
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=ISBANDURAHUMAN-R&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=30363d&border_radius=8" alt="Isbandu's GitHub Stats" />
-  &nbsp;
+  <img
+    width="48%"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=ISBANDURAHUMAN-R&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=ffffff&border_radius=8"
+    alt="Isbandu's GitHub Stats"
+  />
+</div>
   <img width="48%" src="https://streak-stats.demolab.com?user=ISBANDURAHUMAN-R&theme=dark&background=000000&border=30363d&border_radius=8&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=ffffff" alt="GitHub Streak Stats" />
 </div>
 
