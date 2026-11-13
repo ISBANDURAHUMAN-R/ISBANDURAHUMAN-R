@@ -167,12 +167,14 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 <h2 align="center"> ◈ <em>Contribution Activity</em> </h2>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph-delta.vercel.app/graph?username=ISBANDURAHUMAN-R&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=181818&hide_border=false&border_color=30363d&custom_title=ISBANDU'S%20CONTRIBUTION%20GRAPH" alt="Contribution Graph" />
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/ISBANDURAHUMAN-R/ISBANDURAHUMAN-R/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
 </div>
 
 <br/>
-
-
 
 ---
 
