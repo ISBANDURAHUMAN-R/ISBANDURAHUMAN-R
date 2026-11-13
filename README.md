@@ -161,6 +161,7 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 <br/>
 
 
+
 <!-- ================================================================= -->
 <!--                    CONTRIBUTION ACTIVITY                          -->
 <!-- ================================================================= -->
@@ -169,26 +170,24 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 
 <div align="center">
 
-  <h3>2026 · CONTRIBUTION TIMELINE</h3>
-
   <p>
-    JAN &nbsp; FEB &nbsp; MAR &nbsp; APR &nbsp; MAY &nbsp; JUN
-    &nbsp; JUL &nbsp; AUG &nbsp; SEP &nbsp; OCT &nbsp; NOV &nbsp; DEC
+    <strong>2026</strong> &nbsp;·&nbsp;
+    <em>CODING CONSISTENCY & ACTIVITY</em>
   </p>
 
   <img
     width="100%"
     src="https://raw.githubusercontent.com/ISBANDURAHUMAN-R/ISBANDURAHUMAN-R/output/github-contribution-grid-snake-dark.svg"
-    alt="Animated GitHub Contribution Snake"
+    alt="Animated GitHub Contribution Activity"
   />
 
   <p>
-    SUN &nbsp; MON &nbsp; TUE &nbsp; WED &nbsp; THU &nbsp; FRI &nbsp; SAT
+    <sub>365 DAYS · EVERY CONTRIBUTION COUNTS</sub>
   </p>
 
-  <p><em>Every square represents a day of contribution activity.</em></p>
-
 </div>
+
+<br/>
 
 <br/>
 
