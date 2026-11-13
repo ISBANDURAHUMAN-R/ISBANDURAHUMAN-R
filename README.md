@@ -214,15 +214,3 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 
 </div>
 
-<br/>
-<hr/>
-
-<a href="https://github.com/ISBANDURAHUMAN-R">
-  <img src="https://komarev.com/ghpvc/?username=ISBANDURAHUMAN-R&label=PROFILE%20VIEWS&color=000000&style=for-the-badge&labelColor=1a1a1a" alt="Profile Views" />
-</a>
-
-<br/><br/>
-
-<sub>© ISBANDU RAHUMAN R &nbsp;•&nbsp;  ALL RIGHTS RESERVED</sub>
-
-</div>
