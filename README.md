@@ -65,6 +65,40 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 
 ---
 
+<!-- ================================================================= -->
+<!--                       FEATURED PROJECTS                           -->
+<!-- ================================================================= -->
+
+<h2 align="center"> ◆ <em>Featured Projects</em> </h2>
+
+<div align="center">
+
+| Project | Tech Stack | Architecture & Description | Links |
+| :--- | :--- | :--- | :---: |
+| **`TRUVEX`** | `Python` `FastAPI` `Pytest` `NLP` | AI-driven multimodal misinformation detection and credibility analysis platform | [**Repo**](https://github.com/ISBANDURAHUMAN-R/TRUVEX) |
+| **`QUANTUM-THREAT`** | `Python` `Cryptography` `Quantum Security` | Post-quantum cryptography benchmark and quantum vulnerability simulation toolkit | [**Repo**](https://github.com/ISBANDURAHUMAN-R/QUANTUM-THREAT) |
+| **`NEXORA`** | `TypeScript` `Next.js 14` `FastAPI` | Adaptive education and skill tree platform built with Next.js 14 and FastAPI | [**Repo**](https://github.com/ISBANDURAHUMAN-R/NEXORA) |
+| **`INVISIBILITY KYOKKO`** | `Python` `MediaPipe` `OpenCV` | Real-time gesture-controlled invisibility cloak and virtual camera powered by MediaPipe and OpenCV | [**Repo**](https://github.com/ISBANDURAHUMAN-R/INVISIBILITY---KYOKKO) |
+| **`KAGE DRIFT`** | `TypeScript` `Three.js` `WebGL` `Vite` | High-octane Three.js anime drift racing game with procedural tracks, customizable liveries, and zero auto-steer drift physics | [**Repo**](https://github.com/ISBANDURAHUMAN-R/KAGE_-DRIFT) &nbsp;·&nbsp; [**Live Demo**](https://isbandurahuman-r.github.io/KAGE_-DRIFT/) |
+| **`VEHIX`** | `TypeScript` `YOLOv8` `Next.js` `PyTorch` | Intelligent mobility, traffic density analysis, and vehicle fleet vision system powered by YOLOv8 and Next.js | [**Repo**](https://github.com/ISBANDURAHUMAN-R/VEHIX) |
+| **`KAGE CARROM`** | `React 19` `Matter.js` `Vite` `Tailwind` | 2D tabletop Carrom simulation featuring zero-gravity rigid-body dynamics, tournament referee system, procedural audio, and AI | [**Repo**](https://github.com/ISBANDURAHUMAN-R/KAGE-CARROM) &nbsp;·&nbsp; [**Live Demo**](https://isbandurahuman-r.github.io/KAGE-CARROM/) |
+| **`3D CHESS`** | `Three.js` `WebGL` `Minimax AI` | Interactive 3D spatial raycasting chess game with minimax AI and combat piece-shattering dynamics | [**Repo**](https://github.com/ISBANDURAHUMAN-R/3D-CHESS) &nbsp;·&nbsp; [**Live Demo**](https://isbandurahuman-r.github.io/3D-CHESS/) |
+| **`3D ARENA`** | `WebGL 2.0` `GLSL` `Three.js` | 3D procedural action-combat arena featuring procedural skeletal animations and combat mechanics | [**Repo**](https://github.com/ISBANDURAHUMAN-R/3D-ARENA) &nbsp;·&nbsp; [**Live Demo**](https://isbandurahuman-r.github.io/3D-ARENA/) |
+| **`CAREER DNA`** | `JavaScript ES6` `HTML5` `CSS3` | Interactive career assessment roadmap mapping skill evaluations into recommendations | [**Repo**](https://github.com/ISBANDURAHUMAN-R/CAREER-DNA) &nbsp;·&nbsp; [**Live Demo**](https://isbandurahuman-r.github.io/CAREER-DNA/) |
+| **`PROJECT PRANK`** | `CSS Keyframes` `Web Audio API` | Creative web experiment featuring real-time procedural audio synthesis and viewport glitch shaders | [**Repo**](https://github.com/ISBANDURAHUMAN-R/PRANK) &nbsp;·&nbsp; [**Live Demo**](https://isbandurahuman-r.github.io/PRANK/) |
+
+</div>
+
+<br/>
+
+› **[Explore All My Repositories](https://github.com/ISBANDURAHUMAN-R?tab=repositories)**
+
+---
+
+<!-- ================================================================= -->
+<!--                         CONNECT WITH ME                           -->
+<!-- ================================================================= -->
+
 <h2 align="center"> ✦ <em>Connect With Me</em> </h2>
 
 <div align="center">
@@ -88,6 +122,10 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 <br/>
 
 ---
+
+<!-- ================================================================= -->
+<!--                          STATISTICS                               -->
+<!-- ================================================================= -->
 
 <h2 align="center"> 彡 <em>Statistics</em> </h2>
 
@@ -114,6 +152,10 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 
 <br/>
 
+<!-- ================================================================= -->
+<!--                    CONTRIBUTION ACTIVITY                          -->
+<!-- ================================================================= -->
+
 <h2 align="center"> ◈ <em>Contribution Activity</em> </h2>
 
 <div align="center">
@@ -134,6 +176,10 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 </div>
 
 <br/>
+
+<!-- ================================================================= -->
+<!--                              FOOTER                               -->
+<!-- ================================================================= -->
 
 <div align="center">
   <h2><code>BUILD. CREATE. INNOVATE.</code></h2>
