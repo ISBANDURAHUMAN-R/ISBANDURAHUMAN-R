@@ -23,25 +23,20 @@
 </p>
 
 I'm an aspiring developer from India passionate about Artificial Intelligence, software development, and building practical applications.
-<br>
- ★ AI & Data Science student at Panimalar Engineering College
- <br>
- ★ Interested in AI, Machine Learning and Full-Stack Development
-  <br>
- ★ Python and Django developer
-  <br>
- ★ Exploring Cybersecurity and Computer Vision
-  <br>
- ★  Building creative and real-world technology projects
-  <br>
- ★  Always learning, experimenting and improving
+<br><br>
+- AI & Data Science student at Panimalar Engineering College
+- Interested in AI, Machine Learning and Full-Stack Development
+- Python and Django developer
+- Exploring Cybersecurity and Computer Vision
+- Building creative and real-world technology projects
+- Always learning, experimenting and improving
 
 <br clear="right"/>
 
 ---
 
 
-<h2 align="center"> ⚙️ <em>Technologies</em> </h2>
+<h2 align="center"> ❖ <em>Technologies</em> </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -82,7 +77,7 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 <!--                       FEATURED PROJECTS                           -->
 <!-- ================================================================= -->
 
-<h2 align="center"> <em>Featured Projects</em> </h2>
+<h2 align="center"> ◆ <em>Featured Projects</em> </h2>
 
 <div align="center">
 
@@ -100,7 +95,7 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
 
 <br/>
 
-🔗 **[Explore All My Repositories](https://github.com/ISBANDURAHUMAN-R?tab=repositories)**
+› **[Explore All My Repositories](https://github.com/ISBANDURAHUMAN-R?tab=repositories)**
 
 ---
 
