@@ -143,14 +143,14 @@ I'm an aspiring developer from India passionate about Artificial Intelligence, s
       <td>
         <img
           width="400"
-          src="https://github-readme-stats-eight-theta.vercel.app/api?username=ISBANDURAHUMAN-R&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=ffffff&border_radius=8"
+          src="https://github-readme-stats-rust.vercel.app/api?username=ISBANDURAHUMAN-R&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=ffffff&border_radius=8"
           alt="GitHub Stats"
         />
       </td>
       <td>
         <img
           width="400"
-          src="https://streak-stats.demolab.com?user=ISBANDURAHUMAN-R&theme=dark&background=000000&border=ffffff&border_radius=8&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"
+          src="https://streak-stats.demolab.com?user=ISBANDURAHUMAN-R&theme=dark&background=000000&border=ffffff&border_radius=8&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&timezone=Asia/Kolkata"
           alt="GitHub Streak Stats"
         />
       </td>
