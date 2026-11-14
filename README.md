@@ -13,10 +13,10 @@
 This repository serves as the central GitHub Profile README for Isbandu Rahuman R. It provides an overview of technical competencies, active research domains, featured software repositories, and live project deployments across Artificial Intelligence, Computer Vision, and Full-Stack Engineering.
 
 ## ❖ Key Features
-- ▪ Academic background overview in Artificial Intelligence and Data Science at Panimalar Engineering College.
-- ▫ Indexed directory of core technical proficiencies across languages, frameworks, developer tools, and databases.
-- ▴ Flagship project catalog detailing architectural highlights and repository links.
-- ▿ Animated GitHub contribution activity visualization.
+- Academic background overview in Artificial Intelligence and Data Science at Panimalar Engineering College.
+- Indexed directory of core technical proficiencies across languages, frameworks, developer tools, and databases.
+- Flagship project catalog detailing architectural highlights and repository links.
+- Animated GitHub contribution activity visualization.
 
 ## ⬢ Technologies Used
 - Markdown
